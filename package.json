@@ -1,0 +1,18 @@
+{
+  "name": "fusionauth-cicd",
+  "version": "1.0.0",
+  "description": "FusionAuth Configuraton Manager for CI/CD",
+  "main": "src/index.js",
+  "author": "Scott Plunkett <plunkets@aeoss.io>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dot-object": "^1.7.1",
+    "dotenv": "^7.0.0",
+    "glob-fs": "^0.1.7",
+    "js-yaml": "^3.13.1",
+    "mermal": "^0.4.4",
+    "yaml-js": "^0.2.3"
+  }
+}
