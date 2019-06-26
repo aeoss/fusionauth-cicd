@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "dot-object": "^1.7.1",
     "dotenv": "^7.0.0",
     "glob-fs": "^0.1.7",
